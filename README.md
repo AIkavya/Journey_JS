@@ -67,9 +67,10 @@ Every concept is implemented
 Focus on real understanding
 Built with consistency over months
 🎯 Next Goals
+
 ⚛️ React & Full Stack Development
-🧠 DSA Mastery
-🚀 Internships at top tech companies
+🧠 NodeJS & the core brain JS
+
 🙌 Credits
 Jonas Schmedtmann
 Udemy
